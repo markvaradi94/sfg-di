@@ -1,0 +1,12 @@
+guru:
+  jms:
+    username: Gicu
+    password: ceapa
+    dburl: trinitas
+
+---
+spring:
+  profiles: de
+guru:
+  jms:
+    username: Gicugewensch
